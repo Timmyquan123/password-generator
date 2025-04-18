@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Password Generator</title>
+  <link rel="stylesheet" href="pass.css">
+</head>
+<body>
+  <main>
+    <div class="container">
+      <h2>Password Generator</h2>
+
+      <div class="password-box">
+        <input type="text" id="password" readonly>
+        <button onclick="copyPassword()">Copy</button>
+      </div>
+
+      <div class="length-control">
+        <label for="length">Password Length:</label>
+        <input type="range" id="length" min="4" max="20" value="12">
+        <span id="length-value">12</span>
+      </div>
+
+      <div class="options">
+        <label><input type="checkbox" id="uppercase" checked> Include Uppercase</label>
+        <label><input type="checkbox" id="lowercase" checked> Include Lowercase</label>
+        <label><input type="checkbox" id="numbers" checked> Include Numbers</label>
+        <label><input type="checkbox" id="symbols" checked> Include Symbols</label>
+      </div>
+
+      <button class="generate-btn" onclick="generatePassword()">Generate Password</button>
+    </div>
+
+    <!-- 🌟 Signature by Timmy -->
+    <footer class="signature">
+      Made with ❤️ by <span>Timmy</span>
+    </footer>
+  </main>
+
+  <script src="pass.js"></script>
+</body>
+</html>
