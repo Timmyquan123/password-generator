@@ -26,7 +26,7 @@ Made with ❤️ by **Timmy**
 
 ## 🌐 Live Demo
 
-[👉 Check it out on GitHub Pages](https://your-username.github.io/password-generator)
+[👉 Check it out on GitHub Pages](https://github.com/Timmyquan123/password-generator)
 
 ---
 
@@ -34,4 +34,4 @@ Made with ❤️ by **Timmy**
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/password-generator.git
+   git clone https://github.com/Timmyquan123/password-generator
