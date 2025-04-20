@@ -26,7 +26,7 @@ Made with ❤️ by **Timmy**
 
 ## 🌐 Live Demo
 
-[👉 Check it out on GitHub Pages](https://github.com/Timmyquan123/password-generator)
+[👉 Check it out on GitHub Pages](https://timmyquan123.github.io/Timmyquan123/password-generator)
 
 ---
 
